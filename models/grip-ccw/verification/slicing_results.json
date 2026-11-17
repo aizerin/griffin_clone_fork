@@ -1,0 +1,57 @@
+{
+  "00_Fit_test_CCW.3mf": {
+    "exit_code": 0,
+    "warnings": false,
+    "printer_model": "COREONE_INDX8T",
+    "nozzle_diameter": "0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4",
+    "brim_width": "4",
+    "fill_density": "40%",
+    "layer_height": "0.2",
+    "filament used [g]": "8.79, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00",
+    "estimated printing time (normal mode)": "24m 9s"
+  },
+  "01_Base_CCW.3mf": {
+    "exit_code": 0,
+    "warnings": false,
+    "printer_model": "COREONE_INDX8T",
+    "nozzle_diameter": "0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4",
+    "brim_width": "4",
+    "fill_density": "40%",
+    "layer_height": "0.2",
+    "filament used [g]": "150.10, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00",
+    "estimated printing time (normal mode)": "3h 2m 39s"
+  },
+  "02_Cover_CCW.3mf": {
+    "exit_code": 0,
+    "warnings": false,
+    "printer_model": "COREONE_INDX8T",
+    "nozzle_diameter": "0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4",
+    "brim_width": "4",
+    "fill_density": "40%",
+    "layer_height": "0.2",
+    "filament used [g]": "95.36, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00",
+    "estimated printing time (normal mode)": "2h 1m 44s"
+  },
+  "03_Arms_sliders_shim_CCW.3mf": {
+    "exit_code": 0,
+    "warnings": false,
+    "printer_model": "COREONE_INDX8T",
+    "nozzle_diameter": "0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4",
+    "brim_width": "4",
+    "fill_density": "40%",
+    "layer_height": "0.2",
+    "filament used [g]": "71.03, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00",
+    "estimated printing time (normal mode)": "1h 57m 13s"
+  },
+  "04_Spacer_CCW.3mf": {
+    "exit_code": 0,
+    "warnings": false,
+    "printer_model": "COREONE_INDX8T",
+    "nozzle_diameter": "0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4",
+    "brim_width": "4",
+    "fill_density": "40%",
+    "layer_height": "0.2",
+    "filament used [g]": "25.91, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00",
+    "estimated printing time (normal mode)": "40m 20s"
+  }
+}

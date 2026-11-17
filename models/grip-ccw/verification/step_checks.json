@@ -1,0 +1,32 @@
+{
+  "axle_reference_integrated_in_cover": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 3489.9010310932895
+  },
+  "06_adjustable_arm_14in": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 22205.05445031469
+  },
+  "08_slider_fit_coupon": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 1777.5
+  },
+  "03_wheel_spacer": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 22976.41521296963
+  },
+  "07_rim_fit_coupon": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 4764.930088745441
+  },
+  "04_axle_shim": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 415.79607088790715
+  }
+}

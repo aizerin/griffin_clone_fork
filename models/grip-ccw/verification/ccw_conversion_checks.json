@@ -1,0 +1,188 @@
+{
+  "reflection": "X -> -X; determinant -1; reverses angular handedness about vertical Z",
+  "parts": {
+    "01_base_192_M4": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 183719.89254619056,
+      "closed_solid": true
+    },
+    "02_cover_195": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 95559.8235431016,
+      "closed_solid": true
+    },
+    "03_wheel_spacer": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 22970.286395332572,
+      "closed_solid": true
+    },
+    "04_axle_shim": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 415.6865035854005,
+      "closed_solid": true
+    },
+    "05_low_slider": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 1475.109882417318,
+      "closed_solid": true
+    },
+    "06_adjustable_arm_14in": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 22211.521736256665,
+      "closed_solid": true
+    },
+    "07_rim_fit_coupon": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 4771.297543141563,
+      "closed_solid": true
+    },
+    "08_slider_fit_coupon": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 1777.5,
+      "closed_solid": true
+    }
+  },
+  "projects": {
+    "00_Fit_test_CCW.3mf": [
+      {
+        "part": "07_rim_fit_coupon_CCW",
+        "maximum_vertex_deviation_mm": 4.287171625019107e-06,
+        "volume_mm3": 4771.297543141563,
+        "closed_solid": true
+      },
+      {
+        "part": "08_slider_fit_coupon_CCW",
+        "maximum_vertex_deviation_mm": 0.0,
+        "volume_mm3": 1777.5,
+        "closed_solid": true
+      },
+      {
+        "part": "05_low_slider_CCW",
+        "maximum_vertex_deviation_mm": 8.534159382690148e-06,
+        "volume_mm3": 1475.109882417318,
+        "closed_solid": true
+      }
+    ],
+    "01_Base_CCW.3mf": [
+      {
+        "part": "01_base_192_M4_CCW",
+        "maximum_vertex_deviation_mm": 1.083435956614575e-05,
+        "volume_mm3": 183719.89254619056,
+        "closed_solid": true
+      }
+    ],
+    "02_Cover_CCW.3mf": [
+      {
+        "part": "02_cover_195_CCW",
+        "maximum_vertex_deviation_mm": 1.0852572694343849e-05,
+        "volume_mm3": 95559.8235431016,
+        "closed_solid": true
+      }
+    ],
+    "03_Arms_sliders_shim_CCW.3mf": [
+      {
+        "part": "06_adjustable_arm_14in_CCW",
+        "maximum_vertex_deviation_mm": 1.1597920538468012e-05,
+        "volume_mm3": 22211.521736256665,
+        "closed_solid": true
+      },
+      {
+        "part": "05_low_slider_CCW",
+        "maximum_vertex_deviation_mm": 8.525925383344751e-06,
+        "volume_mm3": 1475.109882417318,
+        "closed_solid": true
+      },
+      {
+        "part": "04_axle_shim_CCW",
+        "maximum_vertex_deviation_mm": 1.0637956847057567e-05,
+        "volume_mm3": 415.6865035854005,
+        "closed_solid": true
+      },
+      {
+        "part": "06_adjustable_arm_14in_CCW",
+        "maximum_vertex_deviation_mm": 1.3800255141140167e-05,
+        "volume_mm3": 22211.521736256665,
+        "closed_solid": true
+      },
+      {
+        "part": "06_adjustable_arm_14in_CCW",
+        "maximum_vertex_deviation_mm": 1.2103263151659035e-05,
+        "volume_mm3": 22211.521736256665,
+        "closed_solid": true
+      },
+      {
+        "part": "05_low_slider_CCW",
+        "maximum_vertex_deviation_mm": 1.3645555916318e-05,
+        "volume_mm3": 1475.109882417318,
+        "closed_solid": true
+      },
+      {
+        "part": "05_low_slider_CCW",
+        "maximum_vertex_deviation_mm": 8.525925383344751e-06,
+        "volume_mm3": 1475.109882417318,
+        "closed_solid": true
+      }
+    ],
+    "04_Spacer_CCW.3mf": [
+      {
+        "part": "03_wheel_spacer_CCW",
+        "maximum_vertex_deviation_mm": 1.0794628515629767e-05,
+        "volume_mm3": 22970.286395332572,
+        "closed_solid": true
+      }
+    ]
+  },
+  "assembly": {
+    "01_base_192_M4": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 183719.8941610524,
+      "closed_solid": true
+    },
+    "02_cover_195": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 95559.82360824295,
+      "closed_solid": true
+    },
+    "03_wheel_spacer": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 22970.2866443418,
+      "closed_solid": true
+    },
+    "04_axle_shim": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 415.6864585365898,
+      "closed_solid": true
+    },
+    "05_low_slider": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 1475.1098471773514,
+      "closed_solid": true
+    },
+    "slider_2": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 1475.1098538938386,
+      "closed_solid": true
+    },
+    "slider_3": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 1475.109694603927,
+      "closed_solid": true
+    },
+    "arm_1": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 22211.521284781455,
+      "closed_solid": true
+    },
+    "arm_2": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 22211.52353179036,
+      "closed_solid": true
+    },
+    "arm_3": {
+      "maximum_vertex_deviation_mm": 0.0,
+      "volume_mm3": 22211.52314003266,
+      "closed_solid": true
+    }
+  },
+  "result": "PASS"
+}

@@ -1,0 +1,14 @@
+{
+  "project": "03_Hardware_275mm.3mf",
+  "slicer": "PrusaSlicer 2.9.7",
+  "result": "PASS",
+  "objects": {
+    "06_adjustable_arm_275mm_v2": 3,
+    "05_low_slider": 3,
+    "04_axle_shim": 1
+  },
+  "supports": "organic, sliders only",
+  "max_mesh_vertex_deviation_from_print_STL_mm": 1.3645555916318e-05,
+  "estimated_normal_mode": "1h 34m 33s",
+  "PETG_g": 50.44
+}

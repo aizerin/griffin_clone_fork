@@ -1,0 +1,15 @@
+{
+  "01_Centering_reticle.3mf": {
+    "exit_code": 0,
+    "warnings": false,
+    "part_count": 1,
+    "bed_fit_including_3mm_brim": true,
+    "filament used [g]": "2.74, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00",
+    "estimated printing time (normal mode)": "14m 1s",
+    "brim_width": "3",
+    "fill_density": "40%",
+    "layer_height": "0.2",
+    "nozzle_diameter": "0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4",
+    "printer_model": "COREONE_INDX8T"
+  }
+}

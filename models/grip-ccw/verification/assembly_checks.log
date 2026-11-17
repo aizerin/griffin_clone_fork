@@ -1,0 +1,22 @@
+01_base_192_M4 02_cover_195 0.0
+01_base_192_M4 05_low_slider 0.0
+01_base_192_M4 slider_2 0.0
+01_base_192_M4 slider_3 0.0
+02_cover_195 03_wheel_spacer 0.0
+02_cover_195 04_axle_shim 0.0
+02_cover_195 05_low_slider 0.0
+02_cover_195 slider_2 0.0
+02_cover_195 slider_3 0.0
+02_cover_195 arm_1 0.0
+02_cover_195 arm_2 0.0
+02_cover_195 arm_3 0.0
+03_wheel_spacer 04_axle_shim 0.0
+03_wheel_spacer arm_1 0.0
+03_wheel_spacer arm_2 0.0
+03_wheel_spacer arm_3 0.0
+adjust 1 -10 0.0
+adjust 1 10 0.0
+adjust 2 -10 0.0
+adjust 2 10 0.0
+adjust 3 -10 0.0
+adjust 3 10 0.0

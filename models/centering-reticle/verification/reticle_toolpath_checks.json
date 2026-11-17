@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "layers": {
+    "0.2": {
+      "extruded_segments": 1078,
+      "minimum_center_clear_radius_mm": 0.5608793865464033,
+      "cross_arms_present": true
+    },
+    "0.4": {
+      "extruded_segments": 819,
+      "minimum_center_clear_radius_mm": 0.5342778132314597,
+      "cross_arms_present": true
+    },
+    "0.6": {
+      "extruded_segments": 1007,
+      "minimum_center_clear_radius_mm": 0.5340488132314598,
+      "cross_arms_present": true
+    }
+  },
+  "method": "XY extrusion envelopes including resolved G2/G3 arcs; verifies open center and four cross arms at z=0.2/0.4/0.6 mm"
+}

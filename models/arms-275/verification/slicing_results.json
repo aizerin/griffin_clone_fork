@@ -1,0 +1,28 @@
+{
+  "01_One_arm_275mm_v2.3mf": {
+    "exit_code": 0,
+    "warnings": false,
+    "arm_count": 1,
+    "bed_fit_including_4mm_brim": true,
+    "printer_model": "COREONE_INDX8T",
+    "nozzle_diameter": "0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4",
+    "brim_width": "4",
+    "fill_density": "40%",
+    "layer_height": "0.2",
+    "filament used [g]": "14.60, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00",
+    "estimated printing time (normal mode)": "28m 24s"
+  },
+  "02_Three_arms_275mm_v2.3mf": {
+    "exit_code": 0,
+    "warnings": false,
+    "arm_count": 3,
+    "bed_fit_including_4mm_brim": true,
+    "printer_model": "COREONE_INDX8T",
+    "nozzle_diameter": "0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4",
+    "brim_width": "4",
+    "fill_density": "40%",
+    "layer_height": "0.2",
+    "filament used [g]": "43.75, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00",
+    "estimated printing time (normal mode)": "1h 11m 6s"
+  }
+}

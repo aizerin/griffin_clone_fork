@@ -1,0 +1,14 @@
+Giffin Grip Clone — CORE One adaptation and accessories
+
+Original work: Giffin Grip Clone, by vpxr (@vpxr_793878)
+Source: https://www.printables.com/model/624664-giffin-grip-clone
+License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+License text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+The original model and upstream description are attributed to vpxr. The changes
+in this repository are a remix: smaller one-piece plates, full-size M4 mounting
+holes, axle and shim changes, slider clearances, a reversed spiral, wheelhead
+arms, spacer, fit coupons, centering reticle, PrusaSlicer projects and English
+assembly illustrations. The remix is shared under the same CC BY-NC 4.0 terms.
+No commercial-use permission or endorsement by the original author is implied.
+Third-party software and printer presets retain their respective licenses.

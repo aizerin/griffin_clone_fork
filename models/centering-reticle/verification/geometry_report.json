@@ -1,0 +1,21 @@
+{
+  "base_bore_diameter_mm": 15.6,
+  "base_bore_lip_height_above_wheel_mm": 16.5,
+  "nominal_bottom_clearance_above_wheel_mm": 2.5,
+  "reticle_width_mm": 0.6,
+  "reticle_thickness_mm": 0.6,
+  "center_sight_hole_mm": 1.2,
+  "clear_aperture_mm": 12.6,
+  "printed_dimensions_mm": [
+    23.998870793889076,
+    23.9994353903032,
+    23.1
+  ],
+  "volume_mm3": 2170.004069539134,
+  "watertight": true,
+  "components": 1,
+  "step_valid": true,
+  "print_orientation": "reticle on bed; no support; no scaling",
+  "contact": "shallow cone at the top edge of the central bore",
+  "limitation": "Nominal CAD fit only; printed fit and centering accuracy not yet measured."
+}

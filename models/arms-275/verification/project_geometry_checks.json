@@ -1,0 +1,12 @@
+{
+  "01_One_arm_275mm_v2.3mf": {
+    "arm_count": 1,
+    "maximum_vertex_deviation_mm": 1.2103263158394772e-05,
+    "result": "PASS"
+  },
+  "02_Three_arms_275mm_v2.3mf": {
+    "arm_count": 3,
+    "maximum_vertex_deviation_mm": 1.3237925186941941e-05,
+    "result": "PASS"
+  }
+}

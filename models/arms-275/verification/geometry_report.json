@@ -1,0 +1,27 @@
+{
+  "wheel_diameter_mm": 275.0,
+  "silicone_pad_thickness_mm": 2.0,
+  "plastic_contact_radius_mm": 139.5,
+  "rim_drop_mm": 10.0,
+  "previous_arm_length_mm": 143.3,
+  "new_arm_length_mm": 93.3,
+  "shortened_by_mm": 50.000000000000014,
+  "dimensions_mm": [
+    93.30000000000001,
+    28.0,
+    16.500000000000004
+  ],
+  "volume_mm3": 14328.473552720088,
+  "watertight": true,
+  "components": 1,
+  "step_valid": true,
+  "mount_lane_offset_mm": 5.199987122349466,
+  "bolt_rows": "middle and outer; innermost unused",
+  "slot_center_radius_mm": 81.5754,
+  "slot_length_mm": 52.0,
+  "nut_channel_length_mm": 54.2,
+  "intended_radial_adjustment_mm": [
+    -12,
+    12
+  ]
+}

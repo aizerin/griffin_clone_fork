@@ -1,0 +1,131 @@
+{
+  "method": "Original cover, sliders, shim and support parts; replace spiral base only. Align reflected base relative to existing cover slots.",
+  "symmetry_checks": {
+    "02_cover_195": {
+      "sampled_surface_points": 6000,
+      "max_deviation_mm": 0.6397721303839852,
+      "p99_deviation_mm": 0.0637490374865543
+    },
+    "05_low_slider": {
+      "sampled_surface_points": 6000,
+      "max_deviation_mm": 0.12029091531621854,
+      "p99_deviation_mm": 0.0519295812451
+    }
+  },
+  "mixed_assembly_checks": [
+    {
+      "parts": [
+        "01_base_192_M4",
+        "02_cover_195"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "01_base_192_M4",
+        "05_low_slider"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "01_base_192_M4",
+        "slider_2"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "01_base_192_M4",
+        "slider_3"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "02_cover_195",
+        "03_wheel_spacer"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "02_cover_195",
+        "04_axle_shim"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "02_cover_195",
+        "05_low_slider"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "02_cover_195",
+        "slider_2"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "02_cover_195",
+        "slider_3"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "02_cover_195",
+        "arm_1"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "02_cover_195",
+        "arm_2"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "02_cover_195",
+        "arm_3"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "03_wheel_spacer",
+        "04_axle_shim"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "03_wheel_spacer",
+        "arm_1"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "03_wheel_spacer",
+        "arm_2"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "parts": [
+        "03_wheel_spacer",
+        "arm_3"
+      ],
+      "intersection_mm3": 0.0
+    }
+  ],
+  "result": "PASS",
+  "limitation": "Geometric check in assembled pose; physical fit and full travel untested."
+}

@@ -1,0 +1,175 @@
+{
+  "result": "PASS",
+  "wheel_diameter_mm": 275,
+  "assembly": "existing CCW base with original cover, sliders, spacer and shim; only arms replaced",
+  "bolt_rows": "middle and outer; 4 x M4x8 and 4 x M4 nuts per arm",
+  "radial_adjustment_checked_mm": [
+    -12,
+    12
+  ],
+  "sampled_offsets_mm": [
+    -12,
+    -6,
+    0,
+    6,
+    12
+  ],
+  "maximum_intersection_mm3": 0.0,
+  "fastener_model": "4 mm shaft x 8 mm from seat at z=9; head 7.6 x 2.2 mm; M4 hex nut 7 AF x 3.2 mm; same as existing assembly",
+  "screw_tip_height_above_wheel_mm": 1,
+  "arm_new_length_mm": 93.30000000000001,
+  "step_valid": true,
+  "checks": [
+    {
+      "arm": 1,
+      "radial_offset_mm": -12,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 1,
+      "radial_offset_mm": -6,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 1,
+      "radial_offset_mm": 0,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 1,
+      "radial_offset_mm": 6,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 1,
+      "radial_offset_mm": 12,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 2,
+      "radial_offset_mm": -12,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 2,
+      "radial_offset_mm": -6,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 2,
+      "radial_offset_mm": 0,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 2,
+      "radial_offset_mm": 6,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 2,
+      "radial_offset_mm": 12,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 3,
+      "radial_offset_mm": -12,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 3,
+      "radial_offset_mm": -6,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 3,
+      "radial_offset_mm": 0,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 3,
+      "radial_offset_mm": 6,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    },
+    {
+      "arm": 3,
+      "radial_offset_mm": 12,
+      "intersection_mm3": {
+        "01_base_192_M4": 0.0,
+        "03_wheel_spacer": 0.0,
+        "02_cover_195": 0.0,
+        "04_axle_shim": 0.0
+      }
+    }
+  ],
+  "limitation": "CAD fit and sampled adjustment checks; physical print and rim contact not yet verified."
+}

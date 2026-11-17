@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-15",
+  "application": "PrusaSlicer 2.9.6",
+  "project": "01_Base_CCW.3mf",
+  "dimensions_mm": [
+    191.75,
+    191.75,
+    13.0
+  ],
+  "shells": 1,
+  "geometry_errors": false,
+  "slicing_finished": true,
+  "filament_g": 150.1,
+  "estimated_time_display": "3h 3m"
+}

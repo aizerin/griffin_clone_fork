@@ -1,0 +1,122 @@
+{
+  "pairwise_checks": [
+    {
+      "pair": [
+        "01_base_192_M4",
+        "02_cover_195"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "01_base_192_M4",
+        "05_low_slider"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "01_base_192_M4",
+        "slider_2"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "01_base_192_M4",
+        "slider_3"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "02_cover_195",
+        "03_wheel_spacer"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "02_cover_195",
+        "04_axle_shim"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "02_cover_195",
+        "05_low_slider"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "02_cover_195",
+        "slider_2"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "02_cover_195",
+        "slider_3"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "02_cover_195",
+        "arm_1"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "02_cover_195",
+        "arm_2"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "02_cover_195",
+        "arm_3"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "03_wheel_spacer",
+        "04_axle_shim"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "03_wheel_spacer",
+        "arm_1"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "03_wheel_spacer",
+        "arm_2"
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "pair": [
+        "03_wheel_spacer",
+        "arm_3"
+      ],
+      "intersection_mm3": 0.0
+    }
+  ],
+  "arm_adjustments_checked_mm": [
+    -10,
+    10
+  ],
+  "result": "PASS",
+  "note": "Geometric checks at assembly pose; not a physical print or load test."
+}

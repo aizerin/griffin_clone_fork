@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "nominal_part_intersections_mm3": {
+    "01_base_192_M4": 2.5146106349257142e-05,
+    "03_wheel_spacer": 0.0,
+    "arm_1": 0.0,
+    "arm_2": 0.0,
+    "arm_3": 0.0
+  },
+  "raised_half_mm_intersection_mm3": 0.0,
+  "insertion_beyond_seat_half_mm_intersection_mm3": 0.5917019826991918,
+  "clear_sight_through_exact_center": true,
+  "cross_height_above_wheel_mm": [
+    2.5,
+    3.1
+  ],
+  "mating_bore_mm": 15.6,
+  "cone_diameter_at_bore_lip_mm": 15.6,
+  "requires": "bare base without cover/axle; no original retaining shim or O-ring in the bore",
+  "limitations": "Checks are geometric; printed fit and centering accuracy are unmeasured."
+}
